@@ -6,9 +6,6 @@
 <a href="https://twitter.com/DiscordToolkit">
   <img align="left" alt="DCTK | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 <br>
 </br>
 
@@ -32,3 +29,6 @@
 
 [![Raz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRH-Raz&theme=tokyonight&show_icons=true)](https://github.com/TRH-Raz/github-readme-stats)
 
+
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
