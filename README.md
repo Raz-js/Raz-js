@@ -10,6 +10,4 @@
 
 ![Skills](https://camo.githubusercontent.com/8381d28de2469b86f8c476ba3e0faff044654f691bb407223e8fb320027a13bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64652d6a6176617363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f57696474683d3330266c6162656c436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765)
 
-[![Raz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRH-Raz)](https://github.com/TRH-Raz/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRH-Raz&layout=compact)](https://github.com/TRH-Raz/github-readme-stats)
+[![Raz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRH-Raz&theme=tokyonight&show_icons=true)](https://github.com/TRH-Raz/github-readme-stats)
