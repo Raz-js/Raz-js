@@ -1,3 +1,5 @@
+![HeaderImage](https://i.imgur.com/zNrjkhj.jpg)
+
 <h1 align="center">Hi 👋, I'm Raz</h1>
 <h3 align="center">A Programmer.</h3>
 
@@ -29,6 +31,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trh-raz&show_icons=true&locale=en&layout=compact" alt="trh-raz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trh-raz&show_icons=true&locale=en" alt="trh-raz" /></p>
+[![Raz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRH-Raz&theme=tokyonight&show_icons=true)](https://github.com/TRH-Raz/github-readme-stats)
+
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trh-raz&" alt="trh-raz" /></p>
