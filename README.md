@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trh-raz&show_icons=true&locale=en&layout=compact" alt="trh-raz" /></p>
 
-[![Raz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRH-Raz&theme=tokyonight&show_icons=true)](https://github.com/TRH-Raz/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=TRH-Raz&theme=tokyonight&show_icons=true" alt="trh-raz" /></p>
 
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
