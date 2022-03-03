@@ -31,11 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trh-raz&show_icons=true&locale=en&layout=compact" alt="trh-raz" /></p>
 
-<br>
-
-&nbsp;
-
-<br>
+<span>---<span>
 
 [![Raz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRH-Raz&theme=tokyonight&show_icons=true)](https://github.com/TRH-Raz/github-readme-stats)
 
