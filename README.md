@@ -34,3 +34,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=TRH-Raz&theme=tokyonight&show_icons=true" alt="trh-raz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trh-raz&" alt="trh-raz" /></p>
+
+<br>
+
+Can't you hear, can't you hear the thunder?
+You better run, you better take cover.
+🎵
