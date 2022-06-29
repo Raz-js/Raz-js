@@ -2,7 +2,7 @@
 <br>
 </br>
 
-<span href="https://gist.github.com/Raz-js">My gists are more interesting</span>
+<a href="https://gist.github.com/Raz-js">My gists are more interesting</a>
 
 **Languages:**  
 
