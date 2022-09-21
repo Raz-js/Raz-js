@@ -1,6 +1,4 @@
 ### Raz's Portfolio
-<br>
-</br>
 
 <a href="https://gist.github.com/Raz-js">My gists are more interesting</a>
 
