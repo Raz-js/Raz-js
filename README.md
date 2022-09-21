@@ -12,16 +12,15 @@
 
 ---
 <p align="center">
-  
-<!-- 	[![Discord Presence](https://lanyard.cnrad.dev/api/900156861616111646)](https://discord.com/users/900156861616111646)
+<img src="https://lanyard.cnrad.dev/api/900156861616111646">
 
 <br>
 
-[![Raz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRH-Raz&theme=tokyonight&show_icons=true)](https://github.com/TRH-Raz/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=TRH-Raz&theme=tokyonight&show_icons=true">
 
 
-
-<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
+<br>
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </p>
 
 <br>
