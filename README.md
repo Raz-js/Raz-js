@@ -12,6 +12,7 @@
 
 ---
 <p align="center">
+  
 [![Discord Presence](https://lanyard.cnrad.dev/api/900156861616111646)](https://discord.com/users/900156861616111646)
 
 <br>
