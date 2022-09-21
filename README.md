@@ -13,7 +13,7 @@
 ---
 <p align="center">
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/900156861616111646)](https://discord.com/users/900156861616111646)
+<!-- 	[![Discord Presence](https://lanyard.cnrad.dev/api/900156861616111646)](https://discord.com/users/900156861616111646)
 
 <br>
 
@@ -21,7 +21,7 @@
 
 
 
-<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 </p>
 
 <br>
