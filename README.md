@@ -13,20 +13,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ---
-<!--  ~> If you see this don't forget to follow me before skid it <3  -->
-<a href="https://skulldev.ga/#developers">
-	<img src="https://cdn.discordapp.com/channel-icons/997986590188126249/19cba817740fcd0aff334b2ccc463c15.webp?size=40">
-</a>
-
-<p align="center">
-	<img src="https://lanyard-profile-readme.vercel.app/api/900156861616111646?hideTimestamp=true&hideBadges=true"/>
-<!-- 	<br>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raz-js&theme=dark&hide_border=true">
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=Raz-js&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raz-js&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark"> -->
-</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/900156861616111646)](https://discord.com/users/900156861616111646)
 
 <br>
 
