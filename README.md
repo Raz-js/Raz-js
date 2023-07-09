@@ -4,9 +4,9 @@
 <p align="center">discord: @o.ng</p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Raz-js&icon=3&color=12&pretty=true" />
-  </a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Raz-js&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>
 </p>
 
 ---
