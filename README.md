@@ -1,14 +1,13 @@
-### Raz's Portfolio
+<h1 align="center">Raz</h1>
+<h3 align="center">Welcome to my Github profile</h3>
+<p align="center">"If you ain't known, you got more potential to work on lil bro." ~ Raz</p>
+<p align="center">discord: @o.ng</p>
 
-<a href="https://gist.github.com/Raz-js">My Gists</a> are more interesting
-
-**Languages:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Raz-js&icon=3&color=12&pretty=true" />
+  </a>
+</p>
 
 ---
 <p align="center">
