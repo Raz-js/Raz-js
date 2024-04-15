@@ -1,7 +1,4 @@
 <h1 align="center">Raz</h1>
-<h3 align="center">Welcome to my Github profile</h3>
-<p align="center">"If you ain't known, you got more potential to work on lil bro." ~ Raz</p>
-<p align="center">discord: @o.ng</p>
 
 <p align="center">
 <a href="https://visitcount.itsvg.in">
@@ -11,7 +8,6 @@
 
 ---
 <p align="center">
-<img src="https://lanyard.cnrad.dev/api/900156861616111646">
 
 <br>
 </p>
