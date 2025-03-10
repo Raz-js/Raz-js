@@ -5,16 +5,17 @@
 
 <h3 align="center">🌐 Socials</h3>
 <p align="center">
-<a href="https://twitter.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="test" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="test" height="30" width="40" /></a>
+<!--a href="https://twitter.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="test" height="30" width="40" /></a-->
+<!--a href="https://linkedin.com/in/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="test" height="30" width="40" /></a-->
 <a href="https://stackoverflow.com/users/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="test" height="30" width="40" /></a>
-<a href="https://codesandbox.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="test" height="30" width="40" /></a>
+<!--a href="https://codesandbox.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="test" height="30" width="40" /></a-->  
 <a href="https://instagram.com/yaboyraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@yaboyraz" height="30" width="40" /></a>
-<a href="https://dribbble.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="test" height="30" width="40" /></a>
-<a href="https://www.behance.net/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="test" height="30" width="40" /></a>
+<!--a href="https://dribbble.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="test" height="30" width="40" /></a-->
+<!--a href="https://www.behance.net/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="test" height="30" width="40" /></a-->
 <a href="https://www.youtube.com/c/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="test" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="test" height="30" width="40" /></a>
-<a href="https://discord.gg/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="test" height="30" width="40" /></a>
+<!--a href="https://auth.geeksforgeeks.org/user/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="test" height="30" width="40" /></a-->
+<!--a href="https://discord.gg/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="test" height="30" width="40" /></a-->
+
 </p>
 
 <h3 align="center">💻 Tech Stack</h3>
