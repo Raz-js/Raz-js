@@ -1,6 +1,6 @@
 <h1 align="center">Raz-js</h1>
 
-<p align="center">🎱 Visit my professional portfolio at <a href="https://portfolio.paragon.dedyn.io">portfolio.paragon.dedyn.io</a> 🎱</p>
+<p align="center">🎱 Visit my professional portfolio at <a href="https://portfolio.nonpareil.studio">portfolio.nonpareil.studio</a> 🎱</p>
 
 
 <h3 align="center">🌐 Socials</h3>
